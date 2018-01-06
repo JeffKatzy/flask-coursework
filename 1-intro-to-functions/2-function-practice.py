@@ -1,20 +1,7 @@
 import unittest
 
 def sayHello():
-    return 'say hello'
-
-def sayGoodbye():
-    return 'goodbye'
-
-def capitalizeName(name):
-    return name.capitalize()
-
-def combineNames(firstName, lastName):
-    return "{firstName} {lastName}".format(firstName=firstName.capitalize(), lastName=lastName.capitalize())
-
-def addNumbers(firstNumber, secondNumber):
-    return firstNumber + secondNumber
-
+    return 'say not hello'
 
 class SimplisticTest(unittest.TestCase):
     def test_sayHello(self):
