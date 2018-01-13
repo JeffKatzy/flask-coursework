@@ -1,4 +1,8 @@
 # Review
+
+
+bit.do/lib13
+
 1. Variables in Python and Strings in Python
 
 Explain what the following code in Python will return:
