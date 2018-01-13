@@ -1,7 +1,7 @@
 # Review
 
 
-bit.do/lib13
+# bit.do/lib13
 
 1. Variables in Python and Strings in Python
 
